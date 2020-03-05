@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: dimitropoulosmarios@hotmail.com
 copyright_name: Mario
 description: > # this means to ignore newlines until "baseurl:"
-  Why I Decide to Study Software Engineering
+  My journey in Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MariosDimi
